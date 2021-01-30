@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "materielApi", "materielApi.csproj", "{DB9153AB-F165-4964-911D-97A89663E479}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB9153AB-F165-4964-911D-97A89663E479}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB9153AB-F165-4964-911D-97A89663E479}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB9153AB-F165-4964-911D-97A89663E479}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB9153AB-F165-4964-911D-97A89663E479}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF0F26EB-73FB-4155-8077-97AF9272350C}
+	EndGlobalSection
+EndGlobal
